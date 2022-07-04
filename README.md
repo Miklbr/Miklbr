@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Miklbr
-- 👀 I’m interested in Mixte Reality on HoloLens 2 et TiltFive.
+- 👀 I’m interested in Mixte Reality on HoloLens 2. I also waiting my TiltFive tabletop gameboard to play with it.
 - 🌱 I’m currently learning to code from 0. I'm familiar with professional CAD applications.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
